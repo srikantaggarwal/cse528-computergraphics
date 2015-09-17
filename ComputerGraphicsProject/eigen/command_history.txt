@@ -1,0 +1,500 @@
+    3  vim Question21.java 
+    4  javac Question21.java 
+    5  java Question21
+    6  vim Question21.java 
+    7  javac Question21.java 
+    8  java Question21
+    9  java Question21
+   10  java Question21
+   11  java Question21
+   12  java Question21
+   13  java Question21
+   14  java Question21
+   15  vim Question21.java 
+   16  javac Question21.java 
+   17  java Question21
+   18  java Question21
+   19  java Question21
+   20  java Question21
+   21  java Question21
+   22  java Question21
+   23  vim Question21.java 
+   24  javac Question21.java 
+   25  java Question21
+   26  java Question21
+   27  java Question21
+   28  java Question21
+   29  java Question21
+   30  vim Question21.java 
+   31  javac Question21.java 
+   32  java Question21
+   33  vim Question21.java 
+   34  javac Question21.java 
+   35  java Question21
+   36  java Question21
+   37  java Question21
+   38  vim Question21.java 
+   39  javac Question21.java 
+   40  java Question21
+   41  vim Question21.java 
+   42  javac Question21.java 
+   43  java Question21
+   44  vim Question21.java 
+   45  javac Question21.java 
+   46  java Question21
+   47  vim Question21.java 
+   48  javac Question21.java 
+   49  java Question21
+   50  vim Question21.java 
+   51  javac Question21.java 
+   52  java Question21
+   53  vim Question21.java 
+   54  javac Question21.java 
+   55  java Question21
+   56  vim Question21.java 
+   57  javac Question21.java 
+   58  java Question21
+   59  vim Question21.java 
+   60  javac Question21.java 
+   61  vim Question21.java 
+   62  javac Question21.java 
+   63  java Question21
+   64  vim Question21.java 
+   65  javac Question21.java 
+   66  java Question21
+   67  vim Question21.java 
+   68  javac Question21.java 
+   69  java Question21
+   70  vim Question21.java 
+   71  javac Question21.java 
+   72  java Question21
+   73  vim Question21.java 
+   74  javac Question21.java 
+   75  java Question21
+   76  vim Question21.java 
+   77  javac Question21.java 
+   78  java Question21
+   79  vim Question21.java 
+   80  javac Question21.java 
+   81  vim Question21.java 
+   82  vim Question21.java 
+   83  javac Question21.java 
+   84  java Question21
+   85  vim Question21.java 
+   86  javac Question21.java 
+   87  java Question21
+   88  vim Question21.java 
+   89  javac Question21.java 
+   90  java Question21 > output.txt
+   91  vim Question21.java 
+   92  vim output.txt 
+   93  javac Question21.java 
+   94  java Question21 > output.txt
+   95  vim output.txt 
+   96  vim Question21.java 
+   97  javac Question21.java 
+   98  java Question21 > output.txt
+   99  vim output.txt 
+  100  vim Question21.java 
+  101  javac Question21.java 
+  102  java Question21 > output.txt
+  103  vim output.txt 
+  104  java Question21 > output.txt
+  105  vim output.txt 
+  106  java Question21 > output.txt
+  107  vim output.txt 
+  108  java Question21 > output.txt
+  109  vim output.txt 
+  110  vim Question21.java 
+  111  javac Question21.java 
+  112  java Question21 > output2.txt
+  113  vim Question21.java 
+  114  javac Question21.java 
+  115  vim Question21.java 
+  116  javac Question21.java 
+  117  java Question21 > output2.txt
+  118  vim output.txt
+  119  vim Question21.java 
+  120  javac Question21.java 
+  121  java Question21 > output2.txt
+  122  vim output.txt
+  123  vim Question21.java 
+  124  javac Question21.java 
+  125  java Question21 > output2.txt
+  126  vim output2.txt 
+  127  vim Question21.java 
+  128  javac Question21.java 
+  129  java Question21 > output2.txt
+  130  vim output.txt 
+  131  vim Question21.java 
+  132  javac Question21.java 
+  133  java Question21 > output2.txt
+  134  pwd
+  135  cd ../Srikant/Work/
+  136  cd Algorithms/Assignment4/
+  137  vim Question21.java 
+  138  javac Question21.java 
+  139  java Question21 > output2.txt
+  140  vim output2.txt 
+  141  pwd
+  142  cd ../../
+  143  ls
+  144  mkdir Interviews
+  145  cd Interviews/
+  146  mkdir Facebook
+  147  cd Facebook/
+  148  mkdir Internship
+  149  vim Internship/
+  150  cd Internship/
+  151  vim add.java
+  152  vim Add.java
+  153  pwd
+  154  cd ..
+  155  ls
+  156  cd Shared/
+  157  ls
+  158  cd SC\ Info/
+  159  ls
+  160  cd ../../
+  161  ls
+  162  ls
+  163  cd Srikant/Work/ComputerGraphics/FinalProject/
+  164  ls
+  165  open ./
+  166  pwd
+  167  open ./
+  168  open ./
+  169  open ./
+  170  pwd
+  171  cd ../../Algorithms/
+  172  ls
+  173  mkdir ProgrammmingContest
+  174  cd ProgrammmingContest/
+  175  vim Qs5.java
+  176  clear
+  177  javac Qs5.java 
+  178  vim Qs5.java
+  179  javac Qs5.java 
+  180  clear
+  181  javac Qs5.java 
+  182  vim Qs5.java
+  183  javac Qs5.java 
+  184  vim Qs5.java
+  185  javac Qs5.java 
+  186  vim Qs5.java
+  187  javac Qs5.java 
+  188  java Qs5
+  189  vim Qs5.java
+  190  javac Qs5.java 
+  191  vim Qs5.java
+  192  javac Qs5.java 
+  193  java Qs5
+  194  vim Qs5.java
+  195  javac Qs5.java 
+  196  java Qs5
+  197  vim Qs5.java
+  198  java Qs5
+  199  vim Qs5.java
+  200  vim Qs5.java
+  201  javac Qs5.java 
+  202  java Qs5
+  203  vim Qs5.java
+  204  javac Qs5.java 
+  205  java Qs5
+  206  vim Qs5.java
+  207  javac Qs5.java 
+  208  java Qs5
+  209  java Qs5
+  210  vim Qs5.java
+  211  javac Qs5.java 
+  212  java Qs5
+  213  vim Qs5.java
+  214  javac Qs5.java 
+  215  java Qs5
+  216  vim Qs5.java
+  217  javac Qs5.java 
+  218  java Qs5
+  219  vim Qs5.java
+  220  pwd
+  221  mkdir GeeksForGeeks
+  222  open ./
+  223  pwd
+  224  cdmkdir CodeChef
+  225  mkdir CodeChef
+  226  cd CodeChef/
+  227  vim CHEFGR.java
+  228  javac CHEFGR.java
+  229  vim CHEFGR.java
+  230  javac CHEFGR.java
+  231  vim CHEFGR.java
+  232  javac CHEFGR.java
+  233  java CHEFGR
+  234  open ./
+  235  vim CHEFGR.java
+  236  vim CHEFGR.java
+  237  vim CHEFGR.java
+  238  vim CHEFGR.java
+  239  vim PRALADDU.java
+  240  javac PRALADDU.java 
+  241  vim PRALADDU.java
+  242  javac PRALADDU.java 
+  243  vim PRALADDU.java
+  244  mv PRALADDU.java PRLADDU.java 
+  245  vim PRLADDU.java
+  246  javac PRLADDU.java
+  247  vim PRLADDU.java
+  248  javac PRLADDU.java
+  249  vim PRLADDU.java
+  250  javac PRLADDU.java
+  251  java PRLADDU
+  252  vim PRLADDU.java
+  253  vim FATCHEF.java
+  254  javac FATCHEF.java 
+  255  vim FATCHEF.java
+  256  javac FATCHEF.java 
+  257  vim FATCHEF.java
+  258  javac FATCHEF.java 
+  259  java FATCHEF
+  260  vim FATCHEF.java
+  261  javac FATCHEF.java 
+  262  vim FATCHEF.java
+  263  javac FATCHEF.java 
+  264  vim FATCHEF.java
+  265  javac FATCHEF.java 
+  266  java FATCHEF
+  267  java FATCHEF
+  268  vim FATCHEF.java
+  269  vim FATCHEF.java
+  270  javac FATCHEF.
+  271  javac FATCHEF.java 
+  272  vim FATCHEF.java
+  273  javac FATCHEF.java 
+  274  vim FATCHEF.java
+  275  javac FATCHEF.java 
+  276  vim FATCHEF.java
+  277  javac FATCHEF.java 
+  278  vim FATCHEF.java
+  279  javac FATCHEF.java 
+  280  vim FATCHEF.java
+  281  javac FATCHEF.java 
+  282  java FATCHEF
+  283  vim FATCHEF.java
+  284  java FATCHEF
+  285  javac FATCHEF.java 
+  286  java FATCHEF
+  287  vim PROPOTION.java
+  288  javac PROPOTION.java 
+  289  java PROPOTION
+  290  open ./
+  291  vim CHEFSQA.java
+  292  javac CHEFSQA.java
+  293  vim CHEFSQA.java
+  294  javac CHEFSQA.java
+  295  vim CHEFSQA.java
+  296  javac CHEFSQA.java
+  297  vim CHEFSQA.java
+  298  javac CHEFSQA.java
+  299  java CHEFSQA
+  300  java CHEFSQA
+  301  vim CHEFSQA.java
+  302  javac CHEFSQA.java
+  303  java CHEFSQA
+  304  vim CHEFSQA.java
+  305  javac CHEFSQA.java
+  306  vim CHEFSQA.java
+  307  javac CHEFSQA.java
+  308  java CHEFSQA
+  309  vim CHEFSQA.java
+  310  javac CHEFSQA.java
+  311  java CHEFSQA
+  312  ce, count+1);
+  313  t max = 0;
+  314  g distance : hm.keySet()) {
+  315  t count = hm.get(distance);
+  316  t > max)
+  317  t;
+  318  tln("0");
+  319  tln(4-max);
+  320  t > max)
+  321  clear
+  322  java CHEFSQA
+  323  vim CHEFSQA.java 
+  324  pwd
+  325  cd ../Srikant/Work/ComputerVision/HW2/
+  326  open ./
+  327  open ./
+  328  pwd
+  329  cd /Users/Srikant/Library/
+  330  ls
+  331  cd Preference
+  332  cd Preferences
+  333  ls
+  334  pwd
+  335  cd ..
+  336  grep 'dropbox' .
+  337  grep -r 'dropbox' *
+  338  clear
+  339  pwd
+  340  pwd
+  341  cd Work/
+  342  mkdir Misc
+  343  cd Misc/
+  344  curl -s http://php-osx.liip.ch/install.sh | bash -s 5.6
+  345  vim myfirst.html
+  346  mv myfirst.html hello.php
+  347  ls
+  348  ls
+  349  pwd
+  350  ls
+  351  php -v
+  352  echo PATH
+  353  echo $PATH
+  354  vim /etc/apache2/httpd.conf
+  355  sudo vim /etc/apache2/httpd.conf
+  356  cd /etc
+  357  sudo cp php.ini.default php.ini
+  358  vim php.ini
+  359  sudo vim php.ini
+  360  sudo vim php.ini
+  361  cd /Library/WebServer/Documents/
+  362  vim test.php
+  363  sudo vim test.php
+  364  sudo vim hello.php
+  365  sudo vim getjson.php
+  366  sudo vim hello.php
+  367  sudo vim getjson.php
+  368  sudo vim getjson.php
+  369  sudo vim getjson.php
+  370  sudo vim getjson.php
+  371  sudo vim getjson.php
+  372  sudo vim getjson.php
+  373  sudo vim getjson.php
+  374  sudo vim getjson.php
+  375  sudo vim getjson.php
+  376  sudo vim getjson.php
+  377  sudo vim getjson.php
+  378  sudo vim getjson.php
+  379  sudo vim getjson.php
+  380  sudo vim getjson.php
+  381  mv getjson.php interview.php
+  382  sudo mv getjson.php interview.php
+  383  sudo cp interview.php /Users/Srikant/Work/Misc/
+  384  pwd
+  385  cd eigen/source_dir/
+  386  cmake source_dir
+  387  cd ..
+  388  cmake source_dir
+  389  pwd
+  390  make install
+  391  pwd
+  392  pwd
+  393  pwd
+  394  cd ../../../Algorithms/
+  395  ls
+  396  mkdir Practise
+  397  cd Practise/
+  398  vim KMP.java
+  399  javac KMP.java 
+  400  vim KMP.java
+  401  javac KMP.java 
+  402  vim KMP.java
+  403  javac KMP.java 
+  404  vim KMP.java
+  405  javac KMP.java 
+  406  java KMP
+  407  vim KMP.java
+  408  javac KMP.java 
+  409  java KMP
+  410  java KMP
+  411  vim KMP.java
+  412  javac KMP.java 
+  413  java KMP
+  414  vim KMP.java
+  415  alias osvm="sshpass -p bharat1 ssh -X -p 130  cse506@130.245.30.231"
+  416  export osvm
+  417  osvm
+  418  sshpass -p bharat1 ssh -X -p 130  cse506@130.245.30.231
+  419  ssh -X -p 130  cse506@130.245.30.231
+  420  osvm
+  421  sshpass -p bharat1 ssh -X -p 130  cse506@130.245.30.231
+  422  ssh -X -p 130  cse506@130.245.30.231
+  423  ssh -X -p 130  cse506@130.245.30.231
+  424  ssh -X -p 130  cse506@130.245.30.231
+  425  ssh -X -p 130  cse506@130.245.30.231
+  426  exit
+  427  pwd
+  428  pwd
+  429  cd Work/Algorithms/
+  430  ls
+  431  cd Practise/
+  432  vim getCountString.java
+  433  mv getCountString.java GetCountString.java
+  434  javac GetCountString.java 
+  435  vim getCountString.java
+  436  javac GetCountString.java 
+  437  java GetCountString
+  438  vim getCountString.java
+  439  vim getCountString.java
+  440  javac GetCountString.java 
+  441  java GetCountString
+  442  vim getCountString.java
+  443  javac GetCountString.java 
+  444  java GetCountString
+  445  vim GetCountString.java
+  446  javac GetCountString.java
+  447  java GetCountString
+  448  vim GetCountString.java
+  449  javac GetCountString.java
+  450  java GetCountString
+  451  vim GetCountString.java
+  452  mv GetCountString.java Question2.java
+  453  javac Question2.java 
+  454  java Question2
+  455  vim Question2.java 
+  456  javac Question2.java 
+  457  java Question2
+  458  vim Question2.java 
+  459  javac Question2.java 
+  460  java Question2
+  461  java Question2
+  462  vim Question1.java 
+  463  javac Question1.java 
+  464  vim Question1.java 
+  465  javac Question1.java 
+  466  vim Question1.java 
+  467  javac Question1.java 
+  468  java Question1
+  469  vim Question1.java 
+  470  javac Question1.java 
+  471  java Question1
+  472  java Question1
+  473  java Question1
+  474  vim Question1.java 
+  475  javac Question1.java 
+  476  java Question1
+  477  vim Question1.java 
+  478  vim Question1.java 
+  479  javac Question1.java 
+  480  java Question1
+  481  vim Question1.java 
+  482  javac Question1.java 
+  483  java Question1
+  484  vim Question1.java 
+  485  javac Question1.java 
+  486  java Question1
+  487  java Question1
+  488  java Question1
+  489  java Question1
+  490  java Question1
+  491  java Question1
+  492  java Question1
+  493  vim Question1.java 
+  494  javac Question1.java 
+  495  mkdir FacebookInternship
+  496  mv Question1.java FacebookInternship/
+  497  mv Question2.java FacebookInternship/
+  498  ls
+  499  cd FacebookInternship/
+  500  vim Question1.java 
+  501  history
+  502  history>command_history.txt
